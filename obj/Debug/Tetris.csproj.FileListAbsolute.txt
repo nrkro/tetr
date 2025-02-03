@@ -1,0 +1,13 @@
+C:\Users\Димаж\Desktop\tetr\bin\Debug\Tetris.exe.config
+C:\Users\Димаж\Desktop\tetr\bin\Debug\Tetris.exe
+C:\Users\Димаж\Desktop\tetr\bin\Debug\Tetris.pdb
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.formEditName.resources
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.Forms.formGameOver.resources
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.Forms.formHighScores.resources
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.Forms.formPlay.resources
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.exe
+C:\Users\Димаж\Desktop\tetr\obj\Debug\Tetris.pdb
